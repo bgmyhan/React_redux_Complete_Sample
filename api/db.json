@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "The title",
+      "description": "the description",
+      "id": 1
+    },
+    {
+      "title": "Testing compare url does this remove buttons?",
+      "description": "these should all have individual urls",
+      "id": 3
+    },
+    {
+      "title": "Refactored test",
+      "description": "testing",
+      "id": 4
+    },
+    {
+      "title": "delete me",
+      "description": "asdf",
+      "userId": "101839778842322753900",
+      "id": 5
+    }
+  ]
+}
